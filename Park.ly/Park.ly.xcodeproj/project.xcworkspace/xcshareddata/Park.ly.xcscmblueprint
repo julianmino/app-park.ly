@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BD1E83BC2422C819C28BBE2E3167F544EEEE09B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "645020609B76D89355D221FB28532DC987467A74" : 9223372036854775807,
+    "BD1E83BC2422C819C28BBE2E3167F544EEEE09B1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "476EC599-9681-40C1-B190-36E6995667F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "645020609B76D89355D221FB28532DC987467A74" : "",
+    "BD1E83BC2422C819C28BBE2E3167F544EEEE09B1" : "app-park.ly\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Park.ly",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Park.ly\/Park.ly.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julianmino\/provisional-repo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "645020609B76D89355D221FB28532DC987467A74"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julianmino\/app-park.ly.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD1E83BC2422C819C28BBE2E3167F544EEEE09B1"
+    }
+  ]
+}
